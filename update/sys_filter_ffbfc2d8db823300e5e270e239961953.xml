@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="incident">short_descriptionSTARTSWITHu^short_descriptionENDSWITHshare^ORshort_descriptionLIKEto^EQ<item endquery="false" field="short_description" goto="false" newquery="false" operator="STARTSWITH" or="false" value="u"/>
+            <item endquery="false" field="short_description" goto="false" newquery="false" operator="ENDSWITH" or="false" value="share"/>
+            <item endquery="false" field="short_description" goto="false" newquery="false" operator="LIKE" or="true" value="to"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 05:59:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ffbfc2d8db823300e5e270e239961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>myfilter1</sys_name>
+        <sys_package display_value="sicetapp" source="x_367064_sicetapp">95950ad0db823300e5e270e239961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sicetapp">95950ad0db823300e5e270e239961940</sys_scope>
+        <sys_update_name>sys_filter_ffbfc2d8db823300e5e270e239961953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 05:59:24</sys_updated_on>
+        <table>incident</table>
+        <title>myfilter1</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=ffbfc2d8db823300e5e270e239961953"/>
+</record_update>

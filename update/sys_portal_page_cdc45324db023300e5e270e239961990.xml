@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-06-14 04:56:50">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:39:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cdc45324db023300e5e270e239961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_mycatalog</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sicetapp" source="x_367064_sicetapp">95950ad0db823300e5e270e239961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sicetapp">95950ad0db823300e5e270e239961940</sys_scope>
+        <sys_update_name>sys_portal_page_cdc45324db023300e5e270e239961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:39:25</sys_updated_on>
+        <title>catalog_mycatalog</title>
+        <user/>
+        <view>catalog_mycatalog</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="catalog_mycatalog">cdc45324db023300e5e270e239961990</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                <sys_id>58410870db823300e5e270e2399619d2</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>50410870db823300e5e270e2399619d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>50410870db823300e5e270e2399619d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>54410870db823300e5e270e2399619d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>54410870db823300e5e270e2399619d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;amp;amp;sysparm_parent=acd4d724db023300e5e270e239961973&amp;amp;amp;amp;amp;amp;sysparm_catalog=f9949324db023300e5e270e23996199e&amp;amp;amp;amp;amp;amp;sysparm_catalog_view=catalog_mycatalog</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>58410870db823300e5e270e2399619d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>58410870db823300e5e270e2399619d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=acd4d724db023300e5e270e239961973&amp;amp;sysparm_catalog=f9949324db023300e5e270e23996199e&amp;amp;sysparm_catalog_view=catalog_mycatalog&amp;amp;sysparm_view=catalog_mycatalog'&amp;gt;hardware&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>5c410870db823300e5e270e2399619d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>f9949324db023300e5e270e23996199e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>d0410870db823300e5e270e2399619d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>catalog_mycatalog</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>d4410870db823300e5e270e2399619d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>cdc45324db023300e5e270e239961990</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>d8410870db823300e5e270e2399619d2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>acd4d724db023300e5e270e239961973</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-06-12 01:53:48">58410870db823300e5e270e2399619d2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-06-12 08:53:48</sys_created_on>
+                        <sys_id>dc410870db823300e5e270e2399619d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-06-12 08:53:48</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

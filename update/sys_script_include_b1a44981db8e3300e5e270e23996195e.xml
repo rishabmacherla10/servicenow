@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_367064_sicetapp.firstsi</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>firstsi</name>
+        <script><![CDATA[//for script include
+var firstsi = Class.create();//means we are creating class inside service now
+firstsi.prototype = {
+    initialize: function() {
+    },//default function,
+	//to create ay new function then we can do the following
+	//in above and below,the first names represent function names. 
+	helloWorld: function() {
+		alert("hello");
+		//gs.addInfoMessage("Hello World");
+    },
+
+    type: 'firstsi'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 08:32:28</sys_created_on>
+        <sys_id>b1a44981db8e3300e5e270e23996195e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>firstsi</sys_name>
+        <sys_package display_value="sicetapp" source="x_367064_sicetapp">95950ad0db823300e5e270e239961940</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="sicetapp">95950ad0db823300e5e270e239961940</sys_scope>
+        <sys_update_name>sys_script_include_b1a44981db8e3300e5e270e23996195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 08:55:20</sys_updated_on>
+    </sys_script_include>
+</record_update>

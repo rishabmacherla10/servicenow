@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="mycatalog">f9949324db023300e5e270e23996199e</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:40:13</sys_created_on>
+        <sys_id>acd4d724db023300e5e270e239961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hardware</sys_name>
+        <sys_package display_value="sicetapp" source="x_367064_sicetapp">95950ad0db823300e5e270e239961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sicetapp">95950ad0db823300e5e270e239961940</sys_scope>
+        <sys_update_name>sc_category_acd4d724db023300e5e270e239961973</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:40:13</sys_updated_on>
+        <title>hardware</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=acd4d724db023300e5e270e239961973"/>
+</record_update>

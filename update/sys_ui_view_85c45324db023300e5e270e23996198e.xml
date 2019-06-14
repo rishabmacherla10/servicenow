@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_mycatalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:39:25</sys_created_on>
+        <sys_id>85c45324db023300e5e270e23996198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mycatalog View</sys_name>
+        <sys_package display_value="sicetapp" source="x_367064_sicetapp">95950ad0db823300e5e270e239961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sicetapp">95950ad0db823300e5e270e239961940</sys_scope>
+        <sys_update_name>sys_ui_view_85c45324db023300e5e270e23996198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:39:25</sys_updated_on>
+        <title>mycatalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

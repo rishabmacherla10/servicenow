@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="logincident" max_length="40" name="x_367064_sicetapp_logincident" sizeclass="3" type="collection">
+        <element choice="3" label="affecteduser" max_length="1000" name="affecteduser" reference="sys_user" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+            </choice>
+        </element>
+        <element label="sicetdesc" max_length="1000" name="sicetdesc" type="string_full_utf8"/>
+        <element label="sicetshortdesc" max_length="1000" name="sicetshortdesc" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="first date" mandatory="true" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="second date" mandatory="true" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <element label="number" max_length="40" name="u_integer_1" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="short desription" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>
